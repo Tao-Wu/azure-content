@@ -4,6 +4,8 @@
 
 ##<a name="introduction"></a>Introduction
 
+test
+
 Windows Azure Active Directory (Windows Azure AD) is a modern, REST-based service that provides identity management and access control capabilities for cloud applications. Windows Azure AD easily integrates with cloud services as well as Windows Azure, Microsoft Office 365, Dynamics CRM Online, and Windows Intune. Existing on-premise Active Directory deployments can also take full advantage of Windows Azure AD. To learn more, see the [Identity page][] on [windowsazure.com][].
 
 This walkthrough is intended for .NET developers who want to integrate a multi-tenant application with Windows Azure AD. You will learn how to:
